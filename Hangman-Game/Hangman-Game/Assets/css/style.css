@@ -1,0 +1,18 @@
+body{
+	background-color: #000000;
+}
+
+.jumbotron {
+	background-color: #000000;
+	color:#ffff00;
+}
+
+.stadium{
+	z-index: 0;
+	height: auto;
+    width: 50%;
+    height: 50%;
+}
+.container {
+    background-color: white;
+}
